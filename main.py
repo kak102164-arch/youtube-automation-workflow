@@ -3,7 +3,7 @@
 Main Pipeline Orchestrator
 Runs the complete automated YouTube video creation and upload workflow
 """
-
+from typing import Optional
 import os
 import sys
 import json
